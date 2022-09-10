@@ -1,0 +1,15 @@
+C:\GB\C#\Seminar6_HomeTask\Task5\bin\MCD\Debug\net6.0\Task5.exe
+C:\GB\C#\Seminar6_HomeTask\Task5\bin\MCD\Debug\net6.0\Task5.deps.json
+C:\GB\C#\Seminar6_HomeTask\Task5\bin\MCD\Debug\net6.0\Task5.runtimeconfig.json
+C:\GB\C#\Seminar6_HomeTask\Task5\bin\MCD\Debug\net6.0\Task5.dll
+C:\GB\C#\Seminar6_HomeTask\Task5\bin\MCD\Debug\net6.0\Task5.pdb
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\Task5.csproj.AssemblyReference.cache
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\Task5.AssemblyInfoInputs.cache
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\Task5.AssemblyInfo.cs
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\Task5.csproj.CoreCompileInputs.cache
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\Task5.dll
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\refint\Task5.dll
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\Task5.pdb
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\Task5.genruntimeconfig.cache
+C:\GB\C#\Seminar6_HomeTask\Task5\obj\MCD\Debug\net6.0\ref\Task5.dll
