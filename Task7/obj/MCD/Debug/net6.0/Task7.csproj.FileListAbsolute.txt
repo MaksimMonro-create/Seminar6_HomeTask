@@ -1,0 +1,15 @@
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\Task7.csproj.AssemblyReference.cache
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\Task7.AssemblyInfo.cs
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+C:\GB\C#\Seminar6_HomeTask\Task7\bin\MCD\Debug\net6.0\Task7.exe
+C:\GB\C#\Seminar6_HomeTask\Task7\bin\MCD\Debug\net6.0\Task7.deps.json
+C:\GB\C#\Seminar6_HomeTask\Task7\bin\MCD\Debug\net6.0\Task7.runtimeconfig.json
+C:\GB\C#\Seminar6_HomeTask\Task7\bin\MCD\Debug\net6.0\Task7.dll
+C:\GB\C#\Seminar6_HomeTask\Task7\bin\MCD\Debug\net6.0\Task7.pdb
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\Task7.dll
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\refint\Task7.dll
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\Task7.pdb
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\Task7.genruntimeconfig.cache
+C:\GB\C#\Seminar6_HomeTask\Task7\obj\MCD\Debug\net6.0\ref\Task7.dll
